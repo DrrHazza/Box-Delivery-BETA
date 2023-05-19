@@ -4,7 +4,7 @@ HOW TO RUN:
 
 - Then extract the file "Delivery Box.exe" (double click then select extract all)
 
-- Open the extrected "Delivery Box.exe" file
+- Open the extracted "Delivery Box.exe" file
 
 - Then when "windows protected your pc" opens, click "more info" then "run anyway"
 
